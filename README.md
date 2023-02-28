@@ -15,5 +15,5 @@ $ docker run \
     -e TOKEN=CLOUDFLARE_TOKEN_HERE \
     -e ZONE_ID=CLOUDFLARE_ZONE_ID_HERE \
     --detach \
-    ghcr.io/return0927/docker-cloudflare-ddns
+    ghcr.io/return0927/cloudflare-ddns
 ```
